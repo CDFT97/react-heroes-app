@@ -3,4 +3,4 @@ Buscador, hooks, localStogare, context y más.
 
 Pueden probarlo aca:
 
-https://react-comic-heroes.netlify.app/login
+https://react-comic-heroes.netlify.app
